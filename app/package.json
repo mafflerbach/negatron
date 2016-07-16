@@ -1,0 +1,11 @@
+{
+  "name ": "negation",
+  "appname ": "negation",
+  "version": "0.1.0",
+  "main": "main.js",
+  "productName": "negation",
+  "dependencies": {
+    "glob": "^7.0.5",
+    "jquery": "^3.0.0"
+  }
+}
